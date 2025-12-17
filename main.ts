@@ -8,7 +8,7 @@
 //variable
 
 //output
-console.log("10x10 Grid of X's:");
+console.log("10x10 Grid of X's and O's:");
 
 //loop 1
 for (let RowVariable = 1; RowVariable <= 10; RowVariable++) {
